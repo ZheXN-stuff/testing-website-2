@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #003366; /* Dark Blue */
+    background-color: #003399; /* Dark Blue */
     color: white;
     text-align: center;
 }
@@ -34,7 +34,7 @@ body {
     font-weight: bold;
     color: white;
     padding: 10px;
-    background-color: rgba(255, 215, 0, 0.8); /* Gold with transparency */
+    background-color: rgba(102, 204, 255, 0.8); /* Light Blue with transparency */
     border-radius: 10px;
     flex-grow: 1;
 }
@@ -51,7 +51,7 @@ body {
 /* Countdown and next prayer styling */
 .next-prayer-container {
     margin-top: 20px;
-    background-color: rgba(0, 128, 0, 0.8); /* Green with transparency */
+    background-color: rgba(153, 204, 255, 0.8); /* Grayish Blue with transparency */
     padding: 20px;
     border-radius: 10px;
     font-size: 2.5em;
@@ -61,7 +61,7 @@ body {
 /* Date styling */
 .date {
     font-size: 2em;
-    color: gold;
+    color: #66CCFF; /* Light Blue for the date */
     margin-bottom: 20px;
 }
 
